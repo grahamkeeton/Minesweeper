@@ -40,7 +40,6 @@ public void setBombs()
     {
         bombs.add(buttons[yBomb][xBomb]);
     }
-    System.out.println(xBomb+", "+yBomb);
 }
 
 public void draw ()
